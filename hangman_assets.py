@@ -94,6 +94,6 @@ word_list = [
             "loop",
             "while",
             "if",
-            "is"
+            "is",
             "or"
             ]
